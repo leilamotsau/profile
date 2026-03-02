@@ -8,7 +8,7 @@ div#divmaincontainer{
 header#siteheader{
   width:100%;
   height:150px;
-  background-image:liner-gradient(red,hotpink,orange);
+  background-image:liner-gradient(red,pink,orange);
   border:1px solid red;
   border-radius:5px 5px 0 0 ;
   }
